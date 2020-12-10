@@ -1,0 +1,1 @@
+SELECT * FROM product WHERE isActive = :is_active LIMIT :limitz
